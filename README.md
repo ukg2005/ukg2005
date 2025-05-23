@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ukg2005
+- 👋 Hi, I’m Uday Kiran
 - 👀 I’m interested in Ai/ML
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning django and svelte
 - 💞️ I’m looking to collaborate on projects that help me learn
-- 📫 How to reach me just contact my email-udaykirangorli05@gmail.com
+- 📫 To reach me just contact my email-udaykirangorli05@gmail.com
 - 😄 Pronouns: ...he
 
 <!---
